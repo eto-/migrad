@@ -1,0 +1,3 @@
+useDynLib(migrad)
+export(migrad)
+importFrom(Rcpp, evalCpp)

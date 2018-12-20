@@ -1,0 +1,3 @@
+CXX_STD = CXX11
+PKG_CXXFLAGS= -I$(MINUIT_DIR)/include
+PKG_LIBS= -L$(MINUIT_DIR)/lib -lMinuit2

@@ -1,0 +1,13 @@
+Package: migrad
+Type: Package
+Title: optim-like interface to MIGRAD optimizer found in MINUIT
+Version: 1.0
+Date: 2016-01-28
+Author: Alessandro Razeto
+Maintainer: Alessandro Razeto <alessandro@razeto.it>
+Description: MINUIT is the well known optimization package used in high energy
+ physics. This package provides an interface to MIGRAD with an optim-like
+ interface.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.2)
+LinkingTo: Rcpp
